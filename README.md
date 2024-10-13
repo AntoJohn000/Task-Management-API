@@ -18,7 +18,7 @@ A simple RESTful API built with Django and Django REST Framework for managing ta
 - Assign tasks to users
 - Search tasks by title or description
 - Pagination for task retrieval
-- User authentication support (if implemented)
+- User authentication support
 
 ## Technologies Used
 
